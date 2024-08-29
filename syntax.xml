@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book id="b1">
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <publication_year>1960</publication_year>
+    <isbn>978-0446310789</isbn>
+    <genre>Fiction</genre>
+  </book>
+  <book id="b2">
+    <title>1984</title>
+    <author>George Orwell</author>
+    <publication_year>1949</publication_year>
+    <isbn>978-0451524935</isbn>
+    <genre>Science Fiction</genre>
+  </book>
+</library>
