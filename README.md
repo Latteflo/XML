@@ -229,13 +229,5 @@ XML is a powerful and flexible format for sharing data on the web. It is widely 
 
 - [W3Schools XML Tutorial](https://www.w3schools.com/xml/)
 - [XML.com](https://www.xml.com/)
-- [XML Schema Tutorial](https://www.w3schools.com/xml/schema_intro.asp)
-- [XML DTD Tutorial](https://www.w3schools.com/xml/xml_dtd_intro.asp)
 - [Java XML Parsing Tutorial](https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm)
-- [XML Namespaces Tutorial](https://www.w3schools.com/xml/xml_namespaces.asp)
-- [XML Processing Instructions Tutorial](https://www.w3schools.com/xml/xml_processing.asp)
-- [XML Comments Tutorial](https://www.w3schools.com/xml/xml_comments.asp)
-- [XML Attributes Tutorial](https://www.w3schools.com/xml/xml_attributes.asp)
-- [XML Elements Tutorial](https://www.w3schools.com/xml/xml_elements.asp)
-- [XML Syntax Tutorial](https://www.w3schools.com/xml/xml_syntax.asp)
 - [XML Tutorial](https://www.tutorialspoint.com/xml/index.htm)
