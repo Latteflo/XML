@@ -21,4 +21,10 @@
     <year>1949</year>
     <isbn>9780451524935</isbn>
   </book>
+  <book> 
+    <title>Dune</title>
+    <author>Frank Herbert</author>
+    <year>1964</year>
+    <isbn>9780451524975</isbn>
+  </book>
 </library>
